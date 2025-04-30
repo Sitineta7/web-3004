@@ -8,4 +8,8 @@
 .box{
     width: 300px;
     background-color: rgb(35, 65, 65);
+    color: rgb(114, 78, 114);
+    padding: 15%;
+    border-radius: 10px;
+    text-align: center;
 }
