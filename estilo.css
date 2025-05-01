@@ -3,11 +3,11 @@
     justify-content: space-around;
     margin: top 30px;
     padding: 5%;
-    background-color: rgb(44, 148, 233);
+    background-color: rgb(75, 90, 102);
 }
 .caixa{
     width: 300px;
-    background-color: rgb(35, 65, 65);
+    background-color: rgb(5, 8, 8);
     color: rgb(114, 78, 114);
     padding: 15%;
     border-radius: 10px;
